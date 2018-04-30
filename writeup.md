@@ -165,8 +165,6 @@ The histogram and its increasing or decreasing peaks were very helpful during de
 
 ##### 6. Determine the lane curvature
 
--
-
 ##### 7. Draw Identified lanes on Image
 
 For pipeline tests and implementing (especially adjusting the thresholds) I analyzed the examples and chose the most complicated one. This is how I evaluated my pipeline
